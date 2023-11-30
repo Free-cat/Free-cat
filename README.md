@@ -1,16 +1,15 @@
-### Hi there 👋
+### Artem Melnikov - Senior Ruby Developer
 
-<!--
-**Free-cat/Free-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Artem, a passionate and seasoned Ruby developer with a knack for building scalable and efficient software solutions. With a rich background in software engineering, I specialize in Ruby and have a profound interest in optimizing and modernizing applications.
 
-Here are some ideas to get you started:
+🛠️ **Technical Skills:**
+- Proficient in Ruby and Golang.
+- Experienced with PostgreSQL, Redis, Docker, Amazon AWS, ElasticSearch, MongoDB, and more.
+- Skilled in CI/CD processes, GitLab CI/CD, GitFlow, unit-testing, and test coverage politics.
+- Deep understanding of software optimization, and various software design patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach out to me:**
+- Email: [freecats1997@gmail.com](mailto:freecats1997@gmail.com)
+- LinkedIn: [/in/freecat/](https://www.linkedin.com/in/freecat/)
+
+Feel free to browse my repositories to see my work and contributions to various projects!
